@@ -1,0 +1,93 @@
+Create a modern, visually engaging portfolio website built with React.js and Tailwind CSS that reflects current web design trends and emphasizes both functionality and aesthetics.
+
+The design should feature a clean, minimal layout with strong typography, soft shadows, glassmorphism or subtle gradients, and a professional color palette. Use a card-based layout to present projects in a structured and visually appealing way.
+
+Core Requirements:
+
+Project Cards Section (Storytelling Timeline Style)
+
+Each project should be displayed inside a modern card component.
+
+Every card must include:
+
+Project Title
+
+Technologies Used (displayed as styled badges or tags)
+
+Short Description (2–3 lines summarizing the project)
+
+Buttons/Links to:
+
+Live Demo
+
+GitHub Repository
+
+Cards should be arranged vertically in a timeline-style layout.
+
+As the user scrolls, a straight animated line should connect the cards, visually guiding the viewer through the projects like a storytelling journey.
+
+The connecting line should smoothly grow or reveal itself based on scroll position.
+
+Animations & Interactions
+
+Cards should fade in and slightly slide up on scroll (using libraries like Framer Motion or AOS).
+
+Hover effects:
+
+Subtle scale-up effect
+
+Shadow enhancement
+
+Smooth transitions
+
+The connecting line animation should be fluid and synchronized with scroll.
+
+Use smooth scrolling and polished transitions throughout the website.
+
+Responsive Design
+
+Fully responsive across:
+
+Desktop
+
+Tablet
+
+Mobile
+
+On smaller screens:
+
+Timeline layout adapts cleanly (single column with centered line or simplified vertical flow).
+
+Cards maintain spacing, readability, and touch-friendly buttons.
+
+Use Tailwind’s responsive utilities to ensure consistent spacing, typography scaling, and layout adaptation.
+
+Additional Sections
+
+Hero Section with:
+
+Name
+
+Title (e.g., Frontend Developer / Software Engineer)
+
+Short professional tagline
+
+Call-to-action button (View Projects / Contact Me)
+
+About Section with brief bio.
+
+Skills Section displayed in modern grid or badge layout.
+
+Contact Section with simple, elegant form or social links.
+
+Design Philosophy
+
+Emphasize storytelling: the portfolio should feel like a journey through the developer’s growth.
+
+Keep UI clean but dynamic.
+
+Prioritize readability and performance.
+
+Use modern spacing, rounded corners (rounded-xl or 2xl), subtle blur backgrounds, and soft color gradients.
+
+The final result should feel like a high-end, modern developer portfolio that balances technical depth with strong visual presentation.
